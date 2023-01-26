@@ -1,4 +1,5 @@
-Ortelius TOC
+# Ortelius TOC
+
 The role of the Ortelius Technical Oversight Committee (TOC) is to facilitate communication and collaboration across the Ortelius committers. The TOC will be responsible for:
 
 1) coordinating collaboration among Ortelius milestones, including development of an overall technical vision for the community;
